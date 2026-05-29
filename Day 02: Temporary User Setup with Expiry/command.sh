@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo useradd -e 2023-12-07 jim
+sudo useradd -e 2027-04-15 yousuf
